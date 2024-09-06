@@ -36,6 +36,14 @@ This repository contains exploratory data analysis (EDA) conducted on multiple d
   - Correlation between social factors and mental health.
   - Treatment awareness and accessibility.
 
+### 5. Zomato Dataset
+- **File**: `EDA_On_ZOMATO-DATASET.ipynb`
+- **Description**: This dataset includes information from Zomato, a restaurant discovery and food delivery platform. The analysis explores restaurant ratings, pricing, location distribution, and popular cuisines.
+- **Key Insights**: 
+  - Factors influencing restaurant ratings.
+  - Distribution of restaurants across different cities.
+  - Popular cuisines and their price ranges.
+
 ## How to Use
 - Clone the repository:
   ```bash
@@ -61,4 +69,10 @@ pip install -r requirements.txt
 
 ## Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page or submit a pull request if you have suggestions for improving the analysis or adding new datasets.
---
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+This updated README includes the Zomato dataset and maintains a clear structure for users to navigate your repository.
