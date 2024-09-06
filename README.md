@@ -74,5 +74,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-This updated README includes the Zomato dataset and maintains a clear structure for users to navigate your repository.
